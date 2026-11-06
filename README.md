@@ -1,4 +1,4 @@
-![STEDBROWN · Web · Software · AI](assets/orbit.svg)
+![STEDBROWN · Web · Software · AI](assets/orbital-hero.svg)
 
 ## Ciao, sono Stefano 👋
 
