@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="290" viewBox="0 0 960 290" role="img" aria-labelledby="title">
-  <title id="title">STEDBROWN — Web, AI vocale e automazioni</title>
+  <title id="title">STEDBROWN — Web · Software · AI</title>
   <defs>
     <linearGradient id="bg" x2="1" y2="1" gradientUnits="objectBoundingBox">
       <stop stop-color="#0C1123"/><stop offset="1" stop-color="#201343"/>
@@ -24,7 +24,7 @@
   <g font-family="monospace">
     <text x="56" y="65" fill="#91F3E4" font-size="16" letter-spacing="4">PORTFOLIO / GITHUB</text>
     <text x="53" y="148" fill="#F3F1FF" font-size="74" font-weight="700" letter-spacing="-4">STEDBROWN</text>
-    <text x="57" y="196" fill="#D6CBFF" font-size="21">Web, AI vocale e automazioni</text>
+    <text x="57" y="196" fill="#D6CBFF" font-size="21">Web · Software · AI</text>
     <path d="M57 232 H130" stroke="#91F3E4" stroke-width="3"/>
     <text x="57" y="259" fill="#C0B5E5" font-size="14" letter-spacing="2">STEFANO VANANTI</text>
   </g>
