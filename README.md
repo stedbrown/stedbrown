@@ -1,8 +1,8 @@
-![STEDBROWN · Web, AI vocale e automazioni](assets/orbit.svg)
+![STEDBROWN · Web · Software · AI](assets/orbit.svg)
 
 ## Ciao, sono Stefano 👋
 
-Sviluppo siti web e sperimento con AI vocale, automazioni e API. Qui raccolgo progetti per attività locali e prototipi con cui provo nuove idee.
+Sviluppo siti, applicazioni e strumenti software. Qui raccolgo progetti per attività locali, integrazioni con API ed esperimenti con AI e automazioni.
 
 ## In evidenza
 
