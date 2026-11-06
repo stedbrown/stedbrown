@@ -1,16 +1,19 @@
-## Hi there 👋
+![STEDBROWN · Web, AI vocale e automazioni](assets/orbit.svg)
 
-<!--
-**stedbrown/stedbrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Ciao, sono Stefano 👋
 
-Here are some ideas to get you started:
+Sviluppo siti web e sperimento con AI vocale, automazioni e API. Qui raccolgo progetti per attività locali e prototipi con cui provo nuove idee.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## In evidenza
+
+| Progetto | Cosa trovi |
+| :--- | :--- |
+| **[Pizzer-IA](https://github.com/stedbrown/pizzer-ia)** | Centralinista telefonico AI con sipcall/Asterisk, OpenAI Realtime, PostgreSQL e una dashboard per i log in diretta. |
+| **[Alley Cat Studio](https://github.com/stedbrown/alley-cat-studio)** | Studio creativo dedicato al web design cinematografico, all’e-commerce e al software su misura. |
+| **[UP Informatica](https://github.com/stedbrown/up-informatica)** | Il sito web di UP Informatica. |
+| **[Lunar API Service](https://github.com/stedbrown/lunar-api-service)** | Un esperimento con API a tema lunare. |
+| **[UP Informatica Bot](https://github.com/stedbrown/upinformaticabot)** | Il progetto bot di UP Informatica, in Python. |
+
+`TypeScript` · `Python` · `HTML` · `PostgreSQL` · `Asterisk`
+
+[Esplora tutti i repository →](https://github.com/stedbrown?tab=repositories)
